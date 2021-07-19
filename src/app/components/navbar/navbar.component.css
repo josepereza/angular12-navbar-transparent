@@ -1,0 +1,12 @@
+.hdr {
+    
+    background-color: transparent;
+    transition-duration: 1.5s;
+
+  }
+  
+  .hdrScroll {
+    padding:20px;
+    background-color: rgb(15, 7, 65);
+    transition-duration: 1.5s;
+  }
