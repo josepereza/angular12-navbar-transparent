@@ -10,3 +10,9 @@
     background-color: rgb(15, 7, 65);
     transition-duration: 1.5s;
   }
+  @media screen and (max-width: 792px) {
+   .hdr{
+    background-color: rgb(15, 7, 65) !important;
+   }
+    }
+  

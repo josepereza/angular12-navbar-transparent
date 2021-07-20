@@ -1,0 +1,26 @@
+.cuerpo{
+    color:white;
+    width: 100%;
+    background-color: rgb(15, 7, 65);
+    background-size: cover;
+}
+.icon-list {
+    padding-left: 0;
+    list-style: none;
+  }
+  .icon-list li {
+    display: flex;
+    align-items: center;
+    
+  }
+ 
+  @media (max-width: 768px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+      
+    }
+  header {
+      margin-top:100px !important;
+  }
+  }
+  
