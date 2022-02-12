@@ -1,6 +1,6 @@
 .intro{
     height: 100vh;
-    background-image: url('../../../assets/images/arbol.jpg');
+    background-image: url('assets/images/arbol.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
